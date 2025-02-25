@@ -19,7 +19,7 @@ Kumpulkan dalam link Github/Replit
 2. Alya Mukhbita (A710240072)
 
 #class yang dibuat : 
-- Karyawan
+- Komputer
 
 #cara menggunakan
 1. Download file 'pbo topik1 .py'
